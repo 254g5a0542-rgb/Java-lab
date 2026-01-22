@@ -8,7 +8,7 @@
 
 ## SOURCE CODE: primitive datatypes
 
-
+```
 
 public class task1a {
 byte b;
