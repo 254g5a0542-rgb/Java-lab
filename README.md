@@ -46,7 +46,7 @@ System.out.println("def val of short is:"+t.s);
 
 ## SOURCE CODE: Quadratic Equations
 
-
+```
 import java.util.Scanner;
 public class quad
 {
