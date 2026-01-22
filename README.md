@@ -34,7 +34,8 @@ System.out.println("def val of short is:"+t.s);
 ```
 
 ## output
-<img width="476" height="496" alt="Screenshot 2026-01-21 205945" src="https://github.com/user-attachments/assets/03060543-31f5-4c1a-87ad-21b8817d2b0f" />
+![WhatsApp Image 2026-01-22 at 2 21 48 PM](https://github.com/user-attachments/assets/78cfe9f0-ee15-4c2b-a42e-030b58a1ac5c)
+
 
 
 
@@ -87,7 +88,7 @@ System.out.println("root2:" + realpart + "-" + imaginarypart + "i");
 
 
 ## OUTPUT
-<img width="1920" height="1200" alt="Screenshot 2025-12-20 154240" src="https://github.com/user-attachments/assets/331bc3a9-e8ea-4f80-b5fb-fd4bce7f7edb" />
+![WhatsApp Image 2026-01-22 at 2 21 47 PM](https://github.com/user-attachments/assets/b4286288-6322-4a2d-ae67-e23dc9142e37)
 
 
 
