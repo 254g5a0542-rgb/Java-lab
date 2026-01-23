@@ -1,0 +1,31 @@
+##EXPERIMENT 2
+##EXPERIMENT 2A
+##TITLE: Implement class mechanism in java.create a class, methods and invoke them inside main method.
+
+~~~
+
+##SOURCE CODE:
+
+
+class Square{
+int length;
+int area of a square (){
+return length*length;
+}
+int perimeter of a square (){
+return 4*length;
+}
+}
+}
+class main(){
+public staic void main (String atgs[]){
+square sq= new square ();
+sq.length=5;
+int area=sq.area of a square ();
+System.out.println("area of a square:"+area);
+System.out.println("perimeter of a square:"+perimeter);
+}
+}
+
+~~~
+#output:
